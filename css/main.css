@@ -1,0 +1,27 @@
+ *{
+   box-sizing: border-box;
+   font-family:"mulish",sans-serif; 
+}
+
+.body{
+    margin: 0;
+    padding: 0;
+}
+
+.a{
+    text-decoration: none ;
+}
+
+.container{
+   width: 1200px;
+   margin: auto;
+   }
+
+.header-block{
+  background-color: #ffffff;
+}
+
+.header{
+  background-color: #f6f6f9;
+  border-top: 3px solid #295093;
+}
